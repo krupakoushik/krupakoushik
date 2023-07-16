@@ -16,7 +16,8 @@ I wasnt specially good at academics but if it was anything related to computers,
 ## Hit me up!
 - Instagram: https://www.instagram.com/ricky.d3v/
 - Discord: https://discord.com/invite/TvXvxC7zhM
-  ![Discord Banner 4](https://discordapp.com/api/guilds/877565401813368843/widget.png?style=banner4)
+---
+![Discord Banner 4](https://discordapp.com/api/guilds/877565401813368843/widget.png?style=banner4)
 ---
 <!--
 **krupakoushik/krupakoushik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
