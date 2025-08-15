@@ -10,7 +10,6 @@ ________________________________________________________________________________
 - https://krupakoushik.github.io/bigvee/
 - https://krupakoushik.github.io/cynthia/
 - https://krupakoushik.github.io/heart/
-- https://krupakoushik.github.io/To-Do-list/
 - discord bot - **Cynthia** - https://discord.com/api/oauth2/authorize?client_id=1118220952556286013&permissions=41781441724406&scope=applications.commands%20bot
 ---
 You can Contact me through Instagram: https://www.instagram.com/_ricky.exe/
