@@ -1,6 +1,6 @@
-# I am Krupa Koushik (Ricky)
+# I am Krupa Koushik
 ---
-20yo
+21yo
 ---
 Currently working on a personal finance tool - Kuberra.
 ---
